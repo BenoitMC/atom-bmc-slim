@@ -1,3 +1,3 @@
-# bmc-slim package
+# Ruby-Slim syntax for atom
 
-A short description of your package.
+Converted from https://github.com/slim-template/ruby-slim.tmbundle
